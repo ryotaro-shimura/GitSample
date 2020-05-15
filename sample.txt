@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello.
 I'm from Japan.
+=======
+Hello
+I'm fine
+>>>>>>> bccba0a... Add a new line to sample.txt
